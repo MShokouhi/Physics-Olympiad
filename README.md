@@ -29,26 +29,6 @@ This is a living project. I intend to expand this repository with:
 
 ---
 
-## 📝 How to Cite
-If you find these solutions helpful and wish to reference them in your own work, please use the following citation format:
-
-**APA:**
-> Shokouhi, M. (2026). *Solutions Manual for the Iranian Physics Olympiad: 2011–2015* (Version 1.0). GitHub Repository: https://github.com/MShokouhi/Physics-Olympiad.git
-
-**BibTeX:**
-```bibtex
-@book{Shokouhi2026,
-  author    = {Shokouhi, Mohammadreza},
-  title     = {Solutions Manual for the Iranian Physics Olympiad: 2011--2015},
-  year      = {2024},
-  publisher = {GitHub},
-  url       = {https://github.com/MShokouhi/Physics-Olympiad.git},
-  note      = {Version 1.0}
-}
-```
-
----
-
 ## 🐛 Feedback and Errata
 Accuracy is the highest priority for this manual. If you find any typos, errors in the physics, or unclear steps:
 1. Open an **[Issue](https://github.com/MShokouhi/Physics-Olympiad.git/issues)** here on GitHub.
