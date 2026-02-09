@@ -18,7 +18,7 @@ The primary resource currently available is the **Solution Manual for the Irania
 - **Pedagogical Approach:** Focuses on the "why" behind each step, not just the final answer.
 
 ### **Direct Download**
-👉 **[Download the Latest PDF (Version 1.0)]**
+👉 **[Download the Latest PDF (Version 1.0)](https://github.com/MShokouhi/Physics-Olympiad/releases/download/v1.0/IranPhO_Solutions_2011-2015_v1.0.pdf)**
 
 ---
 
