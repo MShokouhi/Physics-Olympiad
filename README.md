@@ -31,7 +31,7 @@ This is a living project. I intend to expand this repository with:
 
 ## 🐛 Feedback and Errata
 Accuracy is the highest priority for this manual. If you find any typos, errors in the physics, or unclear steps:
-1. Open an **[Issue](https://github.com/MShokouhi/Physics-Olympiad.git/issues)** here on GitHub.
+1. Open an **[Issue](https://github.com/MShokouhi/Physics-Olympiad/issues)** here on GitHub.
 2. Or contact me via email at: `m.shokouhi2001@gmail.com`
 
 ---
