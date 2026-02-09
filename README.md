@@ -13,7 +13,7 @@ Physics Olympiads serve as a cornerstone for developing deep physical intuition 
 The primary resource currently available is the **Solution Manual for the Iranian Physics Olympiad: 2011–2015**. 
 
 ### **Key Features**
-- **Comprehensive Solutions:** Detailed step-by-step derivations for all problems from the years 2011-2015.
+- **Comprehensive Solutions:** Detailed step-by-step derivations for all problems from the years 2011–2015.
 - **Academic Standard:** Formatted in LaTeX to ensure clarity in mathematical notation and diagrams.
 - **Pedagogical Approach:** Focuses on the "why" behind each step, not just the final answer.
 
