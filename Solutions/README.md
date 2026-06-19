@@ -17,6 +17,12 @@ Rather than simply providing final answers, this collection prioritizes the **"l
 *   **Illuminate** the foundational principles at play.
 *   **Extend** the analysis to reveal connections between concepts, highlighting the elegance and emergence of physical laws.
 
+## 📝 Note on Pedagogical Use
+
+These solutions are intended to serve as a resource for verification and pedagogical enrichment. They are designed to clarify complex physical concepts and illustrate effective problem-solving strategies, rather than to provide shortcuts.
+
+We strongly encourage the dedicated reader to attempt each problem independently—a process that often demands significant time and persistence—before consulting these materials. It is our sincere hope that the availability of these solutions supports your journey toward a more profound comprehension of the subject, rather than diminishing the intellectual rigor and satisfaction inherent in solving these problems yourself.
+
 ## 📂 Available Content
 
 The following collections are currently available, with further entries being added periodically:
