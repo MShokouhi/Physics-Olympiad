@@ -1,12 +1,28 @@
-This repository contains original solutions to selected problems drawn from various physics textbooks and competitions for which existing solutions are either unavailable, incomplete, or pedagogically unsatisfactory. The solutions presented here are the author's own work.
+<p align="center">
+  <em>An archive of original, in-depth derivations and insights into challenging physics problems.</em>
+</p>
 
-The primary emphasis is not only on obtaining the final result, but on clearly developing the line of reasoning behind each problem. Whenever possible, the discussion highlights the underlying physical ideas and demonstrates how the methods used can be extended to reveal broader and often elegant aspects of physics.
+---
 
-Currently available materials include:
+## 📖 Overview
 
-• Solutions to problems from the Rudolf Ortvay International Competition in Physics  
-• Solutions to problems from *Classical Electrodynamics* by J. D. Jackson
+This directory serves as a dedicated archive for solutions to selected problems from advanced physics textbooks and international competitions. It addresses cases where existing solutions are either unavailable, incomplete, or lack the pedagogical rigor required for a deep understanding of the underlying physical phenomena.
 
-Additional material will be added progressively.
+The solutions presented here are the **original work of the author**.
 
-Comments, suggestions, and constructive feedback are welcome.
+## 🧠 Philosophy & Approach
+
+Rather than simply providing final answers, this collection prioritizes the **"line of thought."** Each solution is crafted to:
+*   **Deconstruct** the problem-solving process step-by-step.
+*   **Illuminate** the foundational principles at play.
+*   **Extend** the analysis to reveal connections between concepts, highlighting the elegance and emergence of physical laws.
+
+## 📂 Available Content
+
+The following collections are currently available, with further entries being added periodically:
+
+### 🏆 Competitions
+- [ ] **Rudolf Ortvay Competition in Physics**
+
+### 📚 Textbooks
+- [ ] **Classical Electrodynamics (J. D. Jackson)**
