@@ -8,9 +8,9 @@ Physics Olympiads serve as a cornerstone for developing deep physical intuition 
 
 ---
 
-## 📚 Featured Work: Solution Manual (2011–2015)
+## 📚 Featured Work: Solution Manual (2011–2017)
 
-The primary resource currently available is the **Solution Manual for the Iranian Physics Olympiad: 2011–2015**. 
+The primary resource currently available is the **Solution Manual for the Iranian Physics Olympiad: 2011–2017**. 
 
 ### **Key Features**
 - **Comprehensive Solutions:** Detailed step-by-step derivations for all problems from the years 2011–2015.
@@ -24,7 +24,7 @@ The primary resource currently available is the **Solution Manual for the Irania
 
 ## 🛠 Project Status & Future Work
 This is a living project. I intend to expand this repository with:
-- [ ] Solutions for the 2016–2020 cycles.
+- [ ] Solutions for the 2008–2010 and 2018–2020 cycles.
 - [ ] Specialized notes on Approximation and Perturbation methods.
 
 ---
